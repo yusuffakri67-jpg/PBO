@@ -1,4 +1,4 @@
-package BikeDemo;.
+package BikeDemo;
 
 public class RoadBike extends Bike {
     private int tireWidth;
